@@ -4,3 +4,5 @@
 - Git giúp tôi hiểu rõ cách quản lý phiên bản của mã nguồn.  
 - Tôi thấy việc commit và push giúp lưu lại tiến trình học rất dễ dàng.  
 - Sử dụng GitHub làm việc nhóm trở nên chuyên nghiệp hơn.
+- Tôi nhận ra commit message rõ ràng giúp theo dõi thay đổi hiệu quả.  
+- Git giúp tôi tự tin hơn khi thử nghiệm code mới mà không sợ mất dữ liệu.
