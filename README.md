@@ -1,7 +1,7 @@
 # Git Final Exam
-
-**Họ tên:** Nguyễn Hoàng Trung Nhân
-**MSSV:** 222327
+**Họ tên:** Nguyễn Hoàng Trung Nhân 
+**MSSV:** 222327 
+>>>>>>> Stashed changes
 **Ngày làm bài:** 15/10/2025  
 
 ## 🎯 Mục tiêu
