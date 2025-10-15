@@ -18,3 +18,11 @@ Kỹ năng
 - Sử dụng Git và GitHub cơ bản.  
 - Viết code bằng Python và JavaScript.  
 - Làm việc nhóm và giao tiếp hiệu quả.
+Kế hoạch học tập
+----------------
+1. Dành ít nhất 2 giờ mỗi ngày để học và thực hành Git.  
+2. Hoàn thành các bài tập về quản lý mã nguồn.  
+3. Học thêm về Git branching và merge conflict.  
+4. Tham gia các dự án nhóm để rèn kỹ năng thực tế.  
+5. Cập nhật và ghi chú quá trình học mỗi tuần.
+
