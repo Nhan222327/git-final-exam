@@ -1,0 +1,20 @@
+
+Giới thiệu cá nhân
+------------------
+Tôi tên là Nguyễn Hoàng Trung Nhân.  
+Hiện là sinh viên năm thứ 4 tại Trường Đại Học Nam Cần Thơ.  
+Tôi yêu thích công nghệ và mong muốn trở thành lập trình viên chuyên nghiệp.  
+Tôi luôn cố gắng học hỏi và trau dồi kỹ năng lập trình mỗi ngày.  
+Tôi tin rằng kiên trì là chìa khóa của thành công.  
+
+Sở thích
+--------
+- Lập trình và khám phá công nghệ mới.  
+- Đọc sách kỹ năng sống và phát triển bản thân.  
+- Chơi thể thao, đặc biệt là nghe nhạc.  
+
+Kỹ năng
+-------
+- Sử dụng Git và GitHub cơ bản.  
+- Viết code bằng Python và JavaScript.  
+- Làm việc nhóm và giao tiếp hiệu quả.
