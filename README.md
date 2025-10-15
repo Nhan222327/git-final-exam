@@ -1,7 +1,7 @@
 # Git Final Exam
 
-**Họ tên:** Nguyễn Văn A  
-**MSSV:** 123456  
+**Họ tên:** Nguyễn Hoàng Trung Nhân 
+**MSSV:** 222327
 **Ngày làm bài:** 15/10/2025  
 
 ## 🎯 Mục tiêu
